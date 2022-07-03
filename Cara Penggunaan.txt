@@ -1,0 +1,3 @@
+[1] Install beberapa plugin Node js diantaranya adalah express, mysql, body-parser, nodemon. 
+[2] Import SQL ke database di XAMPP atau MySQL
+[3] Jalankan aplikasi web di localhost:4000
